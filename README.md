@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 👋😄
 
 - 💻 Junior Frontend/Web Developer on a coding journey
 - 🧠 I'm currently studying Multimedia Design at Business Academy Aarhus
