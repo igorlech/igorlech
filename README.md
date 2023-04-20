@@ -1,4 +1,4 @@
-### Welcome! 👋😄 I'm Igor Lech
+### Welcome! 👋😃 I'm Igor Lech
 
 About me:
 - 💻 Junior Frontend/Web Developer on a coding journey
