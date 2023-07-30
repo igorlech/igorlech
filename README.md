@@ -15,7 +15,9 @@
   <li>CSS/SCSS (+ Tailwind CSS)</li>
   <li>JavaScript & TypeScript</li>
   <li>React</li>
-  <li>Webpack</li>
+  <li>Webpack, Git, Node (Github, Bitbucket)</li>
   <li>.NET (C# + Razor)</li>
   <li>Umbraco CMS</li>
 </ul>
+
+Additional experience with: Angular, RxJS, Node.js, Java, WordPress CMS
