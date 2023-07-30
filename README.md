@@ -1,17 +1,21 @@
 ### <h1>Welcome! 👋😃 I'm Igor Lech</h1>
 
-About me:
-- 💻 <b>Junior Frontend/Web Developer</b> on a coding journey
-- 🧠 Currently studying Digital Concept Development at Business Academy Aarhus
-- 🧑‍🎓 Multimedia Design graduee with Frontend Development Elective
-- 🌱 Willing to collaborate and create something amazing!
-- 📫 Reach out through my LinkedIn profile
+<h2>About me:</h2>
+<ul>
+  <li>💻 <b>Junior Frontend/Web Developer</b> on a coding journey</li>
+  <li>🧠 Currently studying Digital Concept Development at Business Academy Aarhus</li>
+  <li>🧑‍🎓 Multimedia Design graduee with Frontend Development Elective</li>
+  <li>🌱 Willing to collaborate and create something amazing!</li>
+  <li>📫 Reach out through my LinkedIn profile</li>
+</ul>
 
-Current stack:
-- HTML
-- CSS/SCSS (+ Tailwind CSS)
-- JavaScript & TypeScript
-- React
-- Webpack
-- .NET (C# + Razor)
-- Umbraco CMS
+<h2>Current stack:</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS/SCSS (+ Tailwind CSS)</li>
+  <li>JavaScript & TypeScript</li>
+  <li>React</li>
+  <li>Webpack</li>
+  <li>.NET (C# + Razor)</li>
+  <li>Umbraco CMS</li>
+</ul>
