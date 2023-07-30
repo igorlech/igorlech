@@ -5,8 +5,8 @@
   <li>💻 <b>Junior Frontend/Web Developer</b> on a coding journey</li>
   <li>🧠 Currently studying Digital Concept Development at Business Academy Aarhus</li>
   <li>🧑‍🎓 Multimedia Design graduee with Frontend Development Elective</li>
-  <li>🌱 Willing to collaborate and create something amazing!</li>
-  <li>📫 Reach out through my LinkedIn profile</li>
+  <li>🌱 Willing to collaborate and create something that matters!</li>
+  <li>📫 Get in touch through my LinkedIn profile</li>
 </ul>
 
 <h2>Current stack:</h2>
