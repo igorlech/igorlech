@@ -1,23 +1,20 @@
-### <h1>Welcome! 👋😃 I'm Igor Lech</h1>
+### <h1>Welcome! 👋 I'm Igor Lech</h1>
 
 <h2>About me:</h2>
 <ul>
-  <li>💻 <b>Junior Frontend/Web Developer</b> on a coding journey</li>
-  <li>🧠 Currently studying Digital Concept Development at Business Academy Aarhus</li>
+  <li>💻 <b>Frontend Web Developer</b> at ILLUMI</li>
   <li>🧑‍🎓 Multimedia Design graduee with Frontend Development Elective</li>
-  <li>🌱 Willing to collaborate and create something that matters!</li>
-  <li>📫 Get in touch through my LinkedIn profile</li>
+  <li>🌱 Digital Concept Development graduee with Smart Solutions Elective</li>
 </ul>
 
-<h2>Current stack:</h2>
+<h2>Current stack & technologies:</h2>
 <ul>
-  <li>HTML</li>
-  <li>CSS/SCSS (+ Tailwind CSS)</li>
-  <li>JavaScript & TypeScript</li>
-  <li>React</li>
-  <li>Webpack, Git, Node (Github, Bitbucket)</li>
-  <li>.NET (C# + Razor)</li>
-  <li>Umbraco CMS</li>
+  <li>HTML, CSS/SCSS (+ Tailwind CSS)</li>
+  <li>JS & TS</li>
+  <li>Angular, React</li>
+  <li>Lit, RxJS, gsap</li>
+  <li>Vite, Webpack, Azure, Node, NVM, Git (Github, Bitbucket), CI/CD</li>
+  <li>ASP.NET (C# + Razor)</li>
+  <li>Umbraco CMS (Umbraco Certified Professional)</li>
+  <li>Figma</li>
 </ul>
-
-Additional experience with: Angular, RxJS, Node.js, Java, WordPress CMS
